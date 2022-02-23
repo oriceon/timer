@@ -1,4 +1,4 @@
-# Very short description of the package
+# Time your running scripts...
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/oriceon/timer.svg?style=flat-square)](https://packagist.org/packages/oriceon/timer)
 [![Total Downloads](https://img.shields.io/packagist/dt/oriceon/timer.svg?style=flat-square)](https://packagist.org/packages/oriceon/timer)
