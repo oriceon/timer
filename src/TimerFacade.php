@@ -1,0 +1,18 @@
+<?php
+
+namespace Oriceon\Timer;
+
+use Illuminate\Support\Facades\Facade;
+
+class TimerFacade extends Facade
+{
+    /**
+     * Get the registered name of the component.
+     *
+     * @return string
+     */
+    protected static function getFacadeAccessor()
+    {
+        return 'timer';
+    }
+}
